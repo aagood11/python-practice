@@ -7,3 +7,5 @@ def foo(first, second, third, *therest):
 foo(1,2,3,4,5,6,7)
 
 hahahahahahaha
+
+heiheiheihei
